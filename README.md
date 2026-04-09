@@ -1,6 +1,6 @@
 # 🐍 Finanzas con Python
 
-Este repositorio reúne distintos proyectos y notebooks creados por mí, enfocados en el mundo de **finanzas y análisis de datos** con Python.  
+Este repositorio reúne distintos proyectos y notebooks creados por **Agustín Musanti**, enfocados en el mundo de **finanzas y análisis de datos** con Python.  
 La idea es tener un espacio organizado donde guardo **código útil, práctico y reutilizable**, que me sirve tanto para aprender como para aplicar en proyectos reales.
 
 ---
